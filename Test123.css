@@ -1,25 +1,49 @@
 .box_1 {
     background-color: #53545e;
     margin: 1px;
-    border: 5px;
+    border: 1px;
     border-style: solid ;
     width: 600px;
 }
 .box_2 {
     margin: 1px;
-    border: 5px;
+    border: 1px;
     border-style: solid ;
     width: 600px;
+    height: 850px;
 }
 .button_1 {
     width: 100px;
     height: 30px;
     background-color: #53545e;
     color: honeydew;
+    float: left;
+}
+.button_2{
+    width: 100px;
+    height: 30px;
+    background-color: #53545e;
+    color: honeydew;
+    float: left;
+}
+.button_3 {
+    width: 100px;
+    height: 30px;
+    background-color: #53545e;
+    color: honeydew;
 }
 .text_1 {
-
+    text-align: left;
 }
 .text_2 {
+
+}
+.text_3 {
+   float: left;
+}
+.text_4 {
+    float: left;
+}
+.text_5 {
 
 }
