@@ -34,9 +34,7 @@
 }
 .text_1 {
     text-align: left;
-}
-.text_2 {
-
+    color: #bfc0c3;
 }
 .text_3 {
    float: left;
@@ -44,6 +42,7 @@
 .text_4 {
     float: left;
 }
-.text_5 {
-
+.text_6 {
+    float: left;
+    text-align: left;
 }
